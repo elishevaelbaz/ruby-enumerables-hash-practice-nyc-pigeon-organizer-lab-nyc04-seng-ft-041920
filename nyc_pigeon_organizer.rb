@@ -1,5 +1,3 @@
-require 'pry' 
-
 def nyc_pigeon_organizer(data)
   # create the new hash
   pigeon_list = {}
